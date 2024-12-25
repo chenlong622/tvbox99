@@ -687,6 +687,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kukuqi666/tvbox/main/ysc.json","name":"kukuqi666_ysc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K 111.json","name":"BP3388_4K"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BP3388/TVBOX/main/TV.json","name":"BP3388_TV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/nt01xp/2024/main/ok321.txt","name":"nt01xp_ok321"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/nt01xp/2024/main/tv.json","name":"nt01xp_TV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zerowj/tvbox/main/AAO.json","name":"zerowj_AAO"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zerowj/tvbox/main/tvbox.json","name":"zerowj_tvbox"},
@@ -764,6 +765,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/Livecar.json","name":"8qNvKr_Livecar"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/dongman/dongman.json","name":"MyHomeTV_动漫"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/duanju/duanju.json","name":"MyHomeTV_短剧"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/wenyi/wenyi.json","name":"MyHomeTV_文艺"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MyHomeTV/tvbox/main/zhijiao/zhijiao.json","name":"MyHomeTV_智教"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/molodye/tvbox-site/main/tv.json","name":"molodye_tv"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/psk107520/p/main/jsm.json","name":"psk107520_jsm"},
 
@@ -2246,15 +2249,11 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2fomi.txt","name":"自用線路2-fomiTV〔20241108〕"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json","name":"發現線路2-TV〔20240410〕"},  
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox4.txt","name":"發現線路3-TV〔20240410〕"},  
 {"url":"https://gitee.com/tvkj/tw/main/svip.json","name":"💎多多┃天微線路"},     
 {"url":"http://yingshi.fongmi.eu.org/","name":"☃螞蟻線路3-TV〔20240513〕"},
-{"url":"http://w.longba123.top/app/api.json","name":"✨龍霸線路4-TV〔20231212〕"},
-   
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"自用線路1-AV"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json","name":"自用線路2-AV"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yescopys/box/main/ah/18cn.json","name":"自用線路3-AV"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h","name":"更新中3-18+"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name":"更新中-AV"},
+{"url":"http://w.longba123.top/app/api.json","name":"✨龍霸線路4-TV〔20231212〕"},      
+
 
 
 {"url":"http://yingshi.fongmi.eu.org/","name":"☃螞蟻線路3-TV〔20240513〕"},
