@@ -28,6 +28,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/niubihu1/tvbox-/main/368.json","name":"niubihu1_368"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/niubihu1/tvbox-/main/线路优选.json","name":"niubihu1_线路优选"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/niubihu1/tvbox-/main/线路优选带网盘资源.json","name":"niubihu1_线路优选带网盘资源"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/franksun1211/TVBOX/main/0630.json","name":"franksun1211_0630"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/franksun1211/TVBOX/main/07044.json","name":"franksun1211_07044"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/franksun1211/TVBOX/main/0706.json","name":"franksun1211_0706"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/franksun1211/TVBOX/main/0706-bak.json","name":"franksun1211_0706"},
@@ -649,10 +650,10 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BryanHK/disc/main/XYQTVBox.json","name":"BryanHK_XYQTVBox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BryanHK/disc/main/test","name":"BryanHK_test"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sysh8888/mao/main/tv/1.json","name":"sysh8888_1"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ.json","name":"qq1719248506_XBPQ"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/api.json","name":"qq1719248506_api"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/config.json","name":"qq1719248506_config"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/fan.json","name":"qq1719248506_fan"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/index.json","name":"qq1719248506_index"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/qq1719248506.github.io/main/jsm.json","name":"qq1719248506_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnny-JJJ/TVbox/main/m.json","name":"Johnny-JJJ_m"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/KAN314go/k/main/json/kan.json","name":"KAN314go-kan"},
@@ -717,7 +718,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BP3388/TVBOX/main/tvbox","name":"BP3388_tvbox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/1234修改版.json","name":"nt01xp_1234修改版"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/52sw.json","name":"nt01xp_52sw"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/catvod,json","name":"nt01xp_catvod"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/5678修改版.json","name":"nt01xp_5678修改版"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/tv.json","name":"nt01xp_tv"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zerowj/tvbox/main/AAO.json","name":"zerowj_AAO"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zerowj/tvbox/main/tvbox.json","name":"zerowj_tvbox"},
@@ -1791,6 +1792,8 @@
 {"url": "http://www.mpanso.com/小米/DEMO.json ","name": "🌳常┃小米线路"},
 //需要输入激活码(包括OK影视）{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
 //非OK影视需要输入激活码{"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
+//需要输入激活码(包括OK影视）{"url": "https://10936.kstore.space/ok ","name": "🌳常┃ok线路凯速"},
+//非OK影视需要输入激活码{"url": "https://10936.kstore.space/tv ","name": "🌳常┃ok内部凯速"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
 {"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
 {"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
@@ -1855,6 +1858,8 @@
 {"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 ","name": "📺zyt┃潇洒github"},
 {"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga2 ","name": "📺zyt┃潇洒欧歌加速"},
 {"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2 ","name": "📺zyt┃潇洒刘加速"},
+//潇洒本地包在线更新
+//QQ频道异次元空间
 //TVbox助手提供（目前已经没有了）
 //https://lige.chat/
 //失效{"url": "http://www.uuneed.cn/yydsys/duoapi@master/jsm.json ","name": "🚀T┃网盘"},
