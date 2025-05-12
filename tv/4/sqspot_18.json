@@ -7,16 +7,16 @@
 "logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "lives":[
-{"name":"自選","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2},
+{"name":"自選","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2,"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"自選","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
-{"name":"YanG-1989_Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","referer":"https://theav101.com/","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YanG-1989_Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","referer":"https://theav101.com/","ua":"okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
 //{"name":"AV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/livex.m3u"},
 //{"name":"初秋语","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/listx.m3u"},
 //{"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"YanG","type":0,"url":"https://tv.iill.top/m3u/Adult"},
-{"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
-{"name":"直播","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"}
+{"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"直播","type":0,"url":"https://tv.iill.top/m3u/XX.m3u","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
 {"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.4},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/fm-miss.jar"},
