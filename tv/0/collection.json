@@ -17,36 +17,48 @@
             "name": "heroaku_dtes"
         },
         {
+            "url": "./hd9211_dcr.json",
+            "name": "hd9211_dcr"
+        },
+        {
+            "url": "./hd9211_zy.json",
+            "name": "hd9211_zy"
+        },
+        {
+            "url": "./hd9211_d18.json",
+            "name": "hd9211_d18"
+        },
+        {
+            "url": "./sqspot_18.json",
+            "name": "sqspot_18"
+        },
+        {
+            "url": "./xiaolinshao_18.json",
+            "name": "xiaolinshao_18"
+        },
+        {
             "url": "./gaotianliuyun_0821.json",
             "name": "gaotianliuyun_0821"
         },
         {
-            "url": "./gaotianliuyun_0826.json",
-            "name": "gaotianliuyun_0826"
-        },
-        {
-            "url": "./gaotianliuyun_0827.json",
-            "name": "gaotianliuyun_0827"
-        },
-        {
-            "url": "./gaotianliuyun_0825.json",
-            "name": "gaotianliuyun_0825"
-        },
-        {
-            "url": "./gaotianliuyun_0707.json",
-            "name": "gaotianliuyun_0707"
+            "url": "./gaotianliuyun_9918.json",
+            "name": "gaotianliuyun_9918"
         },
         {
             "url": "./xianyuyimu_一木自用.json",
             "name": "xianyuyimu_一木自用"
         },
         {
-            "url": "./2hacc_oktv.json",
-            "name": "2hacc_oktv"
+            "url": "./2hacc_tvbox.json",
+            "name": "2hacc_tvbox"
         },
         {
             "url": "./franksun1211_0706.json",
             "name": "franksun1211_0706"
+        },
+        {
+            "url": "./Guard-H_fj.json",
+            "name": "Guard-H_fj"
         },
         {
             "url": "./yw88075_js.json",
